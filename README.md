@@ -1,6 +1,6 @@
 # Dynamic Hybrid Data Grid
 
-An algorithm which allowed for read-and-write of data in a dynamic grid, that allocated memory in runtime and facilitated faster access to data via 2-dimensional maneuvering. 
+An algorithm which allows for faster read-and-write of data in a dynamic grid, that allocates memory in runtime and facilitates an improvement in access of data due to 2-dimensional maneuvering. 
 
 Applications involve but are not limited to
 * Storing security feeds classified on a daily basis 
