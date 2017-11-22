@@ -6,3 +6,7 @@ Applications involve but are not limited to
 * Storing security feeds classified on a daily basis 
 * Storing logs sorted and classified by date 
 * Any consistently generated data inherently ordered or required to be ordered 
+
+
+# Visualization of the dynamic data structure
+![alt](https://i.imgur.com/aLh1Ax2.png)
